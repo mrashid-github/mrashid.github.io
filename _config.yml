@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sifan Wang"
-description              : "Postdoc researcher at the University of Tsukuba"
-repository               : "sifanwang0903/sifanwang0903.github.io"
+title                    : "Muhammad Rashid"
+description              : "Ph.D student at the University of Tsukuba"
+repository               : "mrashid/mrashid.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Sifan Wang"
+  name             : "Muhammad Rashid"
   avatar           : "images/Weixin Image_20230613150353.jpg"
   bio              : "University of Tsukuba"
   location         : "Tsukuba, Japan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pY1WNrEAAAAJ"
-  email            : "s2136019@u.tsukuba.ac.jp"
-  researchgate     : "https://www.researchgate.net/profile/Sifan-Wang-12"
+  googlescholar    : "https://scholar.google.com/citations?user=C2j0BekAAAAJ&hl=en"
+  email            : "s2236012@u.tsukuba.ac.jp"
+  researchgate     : "https://www.researchgate.net/profile/Muhammad-Rashid-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/muhammad-rashid-8304a1137/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            :  "https://orcid.org/0000-0001-5799-6054"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
