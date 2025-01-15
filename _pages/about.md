@@ -37,12 +37,8 @@ More details can be found at <a href='https://scholar.google.com/citations?user=
 - *2018.03 - 2019.02*: Design Engineer, Structural Engineers Solution (SES) Consultant, Peshawar, Pakistan
 
 
-
-# Recent updates
-- *2024.12*: A new paper has been accepted by <em>Earthquake Engineering and Engineering Vibration</em>.
-- *2024.12*: A new paper has been accepted by <em>Earthquake Engineering and Risilience</em>.
-
-# Journal publications 
+# Research publications 
+## Journal papers
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div><img src='images/MSSP.png' alt="sym" width="100%"></div>
@@ -60,7 +56,7 @@ More details can be found at <a href='https://scholar.google.com/citations?user=
 - [System fragility analysis of highway bridge using multi-output Gaussian process regression surrogate model](https://journals.sagepub.com/doi/full/10.1177/13694332241291255)
   <p><em>Advances in Structural Engineering</em>, 2024</p>
   <p>Taisei Saida, <strong>Muhammad Rashid</strong>, Mayuko Nishio</p>
-
+    
 - [System fragility evaluation of a curved highway bridge structure considering multi-direction seismic excitations](https://journals.sagepub.com/doi/abs/10.1177/13694332231198136)
   <p><em>Advances in Structural Engineering</em>, 2023</p>
   <p><strong>Muhammad Rashid</strong>, Mayuko Nishio</p>
@@ -85,7 +81,7 @@ More details can be found at <a href='https://scholar.google.com/citations?user=
   <p><em>SN Applied Sciences</em>, 2020</p>
   <p>Abdul Ghani, Zeeshan Ali, Fasih A. Khan, Said R. Shah, Sajjad W. Khan, <strong>Muhammad Rashid</strong></p>
 
-# Conference papers
+## Conference papers
 - [Gaussian Process Regression Surrogate Model for Seismic Vulnerability Assessment of Highway Bridge Structure System](https://link.springer.com/chapter/10.1007/978-3-031-39117-0_53)
   <p><em>10th Experimental Vibration Analysis for Civil Engineering Structures (EVACES)</em>, 2023</p>
   <p>Taisei Saida, <strong>Muhammad Rashid</strong>, Mayuko Nishio</p>
@@ -120,11 +116,12 @@ More details can be found at <a href='https://scholar.google.com/citations?user=
 - 2020: Selected for higher studies under Ministry of Education, Culture, Sports, Science and Technology *(MEXT)* Japan
 - 2014: Secured 1st Position in HSSC Examination, *awarded with Gold Medal and Distinction Certificate*, BISE Malakand, Chakdara, Pakistan
 
+# Miscellaneous
 
-# Summer school
+## Summer school
 - *13th Asia-Pacific-Euro Summer School on Smart Structures Technology (APESS)*: July 1-19, 2024, Kyoto University, Japan
 
-# Professional membership
+## Professional membership
 - Student member_ American Society of Civil Engineers *(ASCE)*: since 2018
 - Student member_ Japan Society of Civil Engineers *(JSCE)*: since 2020 
 
