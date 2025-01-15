@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Muhammad Rashid"
-  avatar           : "images/Weixin Image_20230613150353.jpg"
+  avatar           : # "images/Weixin Image_20230613150353.jpg"
   bio              : "University of Tsukuba"
   location         : "Tsukuba, Japan"
   employer         :
