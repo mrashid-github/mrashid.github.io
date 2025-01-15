@@ -39,6 +39,7 @@ More details can be found at <a href='https://scholar.google.com/citations?user=
 
 # Research publications 
 ## Journal papers
+<!--
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div><img src='images/MSSP.png' alt="sym" width="100%"></div>
@@ -51,8 +52,12 @@ More details can be found at <a href='https://scholar.google.com/citations?user=
     <p><strong>Muhammad Rashid</strong>, Mayuko Nishio</p>
   </div>
 </div>
+-->
 
-
+- [Mainshock–aftershock seismic fragility assessment of civil structures: A state-of-the-art review](https://onlinelibrary.wiley.com/doi/full/10.1002/eer2.105)
+  <p><em>Earthquake Engineering and Resilience</em>, 2024</p>
+  <p><strong>Muhammad Rashid</strong>, Mayuko Nishio</p>
+  
 - [System fragility analysis of highway bridge using multi-output Gaussian process regression surrogate model](https://journals.sagepub.com/doi/full/10.1177/13694332241291255)
   <p><em>Advances in Structural Engineering</em>, 2024</p>
   <p>Taisei Saida, <strong>Muhammad Rashid</strong>, Mayuko Nishio</p>
